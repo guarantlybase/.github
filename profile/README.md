@@ -50,4 +50,4 @@ Guarantly is licensed under [MIT License](link-to-license).
 
 Guarantly - Making Transactions Secure and Simple. © 2024 Guarantly, Inc.
 
-![Footer Image](link-to-footer-image.png) <!-- Optional: Add a captivating footer image -->
+![Footer Image](https://res.cloudinary.com/olayemii/image/upload/v1706212596/guarantly/guarantly-banner.png) <!-- Optional: Add a captivating footer image -->
