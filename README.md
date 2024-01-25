@@ -1,6 +1,6 @@
 # Guarantly - Secure Escrow Services
 
-![Guarantly Logo](https://res.cloudinary.com/olayemii/image/upload/v1706212186/guarantly/guarantly-logo.png) <!-- Replace with a link to your logo -->
+![Guarantly Logo](https://res.cloudinary.com/olayemii/image/upload/h_200,w_200/guarantly/guarantly-logo.png) <!-- Replace with a link to your logo -->
 
 Welcome to **Guarantly**, the reliable and secure escrow service designed to facilitate safe and trustable transactions. Whether you're dealing in online marketplaces, real estate, or any high-value exchanges, Guarantly ensures a smooth, secure, and satisfactory transaction for all parties involved.
 
