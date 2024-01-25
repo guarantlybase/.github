@@ -34,7 +34,7 @@ For a detailed guide, visit our [Getting Started](link-to-guide) page.
 
 Need assistance? Our support team is here to help you 24/7. Contact us at:
 
-- **Email**: support@guarantly.com
+- **Email**: hello@guarantly.com
 - **Phone**: +1-234-567-8901
 - **Live Chat**: Visit our [website](link-to-website) for live support.
 
